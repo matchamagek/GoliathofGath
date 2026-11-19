@@ -22,7 +22,7 @@ YE martial pow’rs, and all ye tuneful nine,
 <br>Resume the lays with which your sacred lyre,
 <br>Did then the poet and the sage inspire.
 
-<br>   Now front to front the armies were display’d,
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Now front to front the armies were display’d,
 <br>Here Israel rang’d, and there the foes array’d;
 <br>The hosts on two opposing mountains stood,
 <br>Thick as the foliage of the waving wood;
@@ -44,8 +44,8 @@ YE martial pow’rs, and all ye tuneful nine,
 <br>While Phoebus blaz’d refulgent on his shield:
 <br>Through Jacob’s race a chilling horror ran,
 <br>When thus the huge, enormous chief began:
-  
-<br>   “Say, what the cause that in this proud array
+
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Say, what the cause that in this proud array
 <br>“You set your battle in the face of day?
 <br>“One hero find in all your vaunting train,
 <br>“Then see who loses, and who wins the plain;
@@ -55,8 +55,8 @@ YE martial pow’rs, and all ye tuneful nine,
 <br>“By far inferior in Philistia’s eyes:
 <br>“Produce a man, and let us try the fight,
 <br>“Decide the contest, and the victor’s right.”
-  
-<br>   Thus challeng’d he: all Israel stood amaz’d,
+
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thus challeng’d he: all Israel stood amaz’d,
 <br>And ev’ry chief in consternation gaz’d;
 <br>But Jesse’s son in youthful bloom appears,
 <br>And warlike courage far beyond his years:
@@ -65,8 +65,8 @@ YE martial pow’rs, and all ye tuneful nine,
 <br>Now Israel’s monarch, and his troops arise,
 <br>With peals of shouts ascending to the skies;
 <br>In Elah’s vale the scene of combat lies.
-  
-<br>  When the fair morning blush’d with orient red,
+
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When the fair morning blush’d with orient red,
 <br>What David’s fire enjoin’d the son obey’d,
 <br>And swift of foot towards the trench he came,
 <br>Where glow’d each bosom with the martial flame.
@@ -82,32 +82,32 @@ YE martial pow’rs, and all ye tuneful nine,
 <br>“Freedom in Israel for his house shall gain;
 <br>“And on him wealth unknown the king will pour,
 <br>“And give his royal daughter for his dow’r.”
-  
-<br>   Then Jesse’s youngest hope: “My brethren say,
+
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then Jesse’s youngest hope: “My brethren say,
 <br>“What shall be done for him who takes away
 <br>“Reproach from Jacob, who destroys the chief.
 <br>“And puts a period to his country’s grief.
 <br>“He vaunts the honours of his arms abroad,
 <br>“And scorns the armies of the living God.”
-  
-<br>   Thus spoke the youth, th’ attentive people ey’d
+
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thus spoke the youth, th’ attentive people ey’d
 <br>The wond’rous hero, and again reply’d:
 <br>“Such the rewards our monarch will bestow,
 <br>“On him who conquers, and destroys his foe.”
-  
-<br>   Eliab heard, and kindled into ire
+
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eliab heard, and kindled into ire
 <br>To hear his shepherd brother thus inquire,
 <br>And thus begun: “What errand brought thee? say
 <br>“Who keeps thy flock? or does it go astray?
 <br>“I know the base ambition of thine heart,
 <br>“But back in safety from the field depart.”
-  
-<br>   Eliab thus to Jesse’s youngest heir,
+
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eliab thus to Jesse’s youngest heir,
 <br>Express’d his wrath in accents most severe.
 <br>When to his brother mildly he reply’d.
 <br>“What have I done? or what the cause to chide?
-  
-<br>   The words were told before the king, who sent
+
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The words were told before the king, who sent
 <br>For the young hero to his royal tent:
 <br>Before the monarch dauntless he began,
 <br>“For this Philistine fail no heart of man:
@@ -158,19 +158,19 @@ YE martial pow’rs, and all ye tuneful nine,
 <br>“Myself a rebel to my king would prove.
 <br>“Goliath say, shall grace to him be shown,
 <br>“Who dares heav’ns Monarch, and insults his throne?”
-  
-<br>   “Your words are lost on me,” the giant cries,
+
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Your words are lost on me,” the giant cries,
 <br>While fear and wrath contended in his eyes,
 <br>When thus the messenger from heav’n replies:
 <br>“Provoke no more Jehovah’s awful hand
 <br>“To hurl its vengeance on thy guilty land:
 <br>“He grasps the thunder, and, he wings the storm,
 <br>“Servants their sov’reign’s orders to perform.”
-  
-<br>   The angel spoke, and turn’d his eyes away,
+
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The angel spoke, and turn’d his eyes away,
 <br>Adding new radiance to the rising day.
-  
-<br>   Now David comes: the fatal stones demand
+
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Now David comes: the fatal stones demand
 <br>His left, the staff engag’d his better hand:
 <br>The giant mov’d, and from his tow’ring height
 <br>Survey’d the stripling, and disdain’d the fight,
@@ -178,8 +178,8 @@ YE martial pow’rs, and all ye tuneful nine,
 <br>“Bring’st thou no armour, but a staff to me?
 <br>“The gods on thee their vollied curses pour,
 <br>“And beasts and birds of prey thy flesh devour.”
-  
-<br>   David undaunted thus, “Thy spear and shield
+
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;David undaunted thus, “Thy spear and shield
 <br>“Shall no protection to thy body yield:
 <br>“Jehovah’s name———no other arms I bear,
 <br>“I ask no other in this glorious war.
@@ -193,15 +193,15 @@ YE martial pow’rs, and all ye tuneful nine,
 <br>“That needs nor sword, nor spear, th’ Almighty’s hand:
 <br>“The battle his, the conquest he bestows,
 <br>“And to our pow’r consigns our hated foes.”
-  
-<br>   Thus David spoke; Goliath heard and came
+
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thus David spoke; Goliath heard and came
 <br>To meet the hero in the field of fame.
 <br>Ah! fatal meeting to thy troops and thee,
 <br>But thou wast deaf to the divine decree;
 <br>Young David meets thee, meets thee not in vain;
 <br>’Tis thine to perish on th’ ensanguin’d plain.
-  
-<br>   And now the youth the forceful pebble slung
+
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And now the youth the forceful pebble slung
 <br>Philistia trembled as it whizz’d along:
 <br>In his dread forehead, where the helmet ends,
 <br>Just o’er the brows the well-aim’d stone descends,
@@ -215,8 +215,8 @@ YE martial pow’rs, and all ye tuneful nine,
 <br>And from the body hew’d the ghastly head;
 <br>The blood in gushing torrents drench’d the plains,
 <br>The soul found passage through the spouting veins.
-  
-<br>   And now aloud th’ illustrious victor said,
+
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And now aloud th’ illustrious victor said,
 <br>“Where are your boastings now your champion’s dead?”
 <br>Scarce had he spoke, when the Philistines fled:
 <br>But fled in vain; the conqu’ror swift pursu’d:
@@ -225,8 +225,8 @@ YE martial pow’rs, and all ye tuneful nine,
 <br>In pangs of death the conquest of thine hand;
 <br>And David there were thy ten thousands laid:
 <br>Thus Israel’s damsels musically play’d.
-  
-<br>   Near Gath and Edron many an hero lay,
+
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Near Gath and Edron many an hero lay,
 <br>Breath’d out their souls, and curs’d the light of day:
 <br>Their fury, quench’d by death, no longer burns,
 <br>And David with Goliath’s head returns,
