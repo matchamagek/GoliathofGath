@@ -3,6 +3,9 @@ title: Goliath of Gath. 1 Sam. Chap. xvii.
 order: 16
 byline: Kathryn Davidson
 ---
+## Critical Introduction to "Goliath of Gath"
+This is the critical introduction. Your critical introduction should be constructed like a close reading or scholarly analysis of your selected poem. The critical introduction is designed to be ~500 words. Remember to write in markdown!
+
 ## G O L I A T H  O F  G A T H.
 
 <pre>
@@ -237,7 +240,11 @@ YE martial pow’rs, and all ye tuneful nine,
 </pre>
 
 {% include essay/feature/image-gallery.html
-   objectid="item1;item2;item3" %}
+   objectid="pwp_30;pwp_31;pwp_32;pwp_33;pwp_34;pwp_35;pwp_36;pwp_37;pwp_38;pwp_39;pwp_40;pwp_41" %}
+
+## Contextual Accompaniment to "Goliath of Gath"
+This is the contextual appendix. Your contextual appendix should provide additional information to help the reader understand your selected poem. The contextual appendix is designed to be ~500 words. Remember to write in markdown!
+
 ---
 ## Critical Introduction to "To Maecenas"
 This is the critical introduction. Your critical introduction should be constructed like a close reading or scholarly analysis of your selected poem. The critical introduction is designed to be ~500 words. Remember to write in markdown!
