@@ -4,12 +4,15 @@ order: 16
 byline: Kathryn Davidson
 ---
 ## Critical Introduction to "Goliath of Gath"
-This is the critical introduction. Your critical introduction should be constructed like a close reading or scholarly analysis of your selected poem. The critical introduction is designed to be ~500 words. Remember to write in markdown!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Phillis Wheatley’s poem “Goliath of Gath” is one of her longer poems and one of a minority that are not occasional poems from her published collection _Poems on Various Subjects, Religious and Moral_. “Goliath of Gath” is a short epic retelling of the Biblical narrative of David and Goliath and places Wheatley’s understanding of Romantic ideals, neoclassical traditions, and Biblical familiarity on full display. However, the poem is more than a display of African intellectual ability, which sadly was in need of proving at the time, but also a rebuttal against arguments holding up the institution of slavery. As “Wheatley’s tenuous position as a slave and her dependence on the support of white patrons limited her ability to criticize … slavery directly”, she instead subtly works within ideologies that would be familiar to educated elites to destabilize the support for slavery from within their own preexisting beliefs (Hairston 32). Wheatley draws upon the Romantic conception of the corruptive power of civilization to question whether Africa or Britain would be more morally superior, neoclassical form and allusion to further emphasise the Romantic point by pitting the neoclassical gods against God thus suggesting that prized, civilized education has replaced God like an idol, and carefully selects the Biblical source narrative to represent a struggle against oppression and the hope for divine deliverance to demonstrate the hypocrisy and immorality within arguments upholding the institution of slavery.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;While not as prevalent in “Goliath of Gath” as some of her other poems, Wheatley does still draw upon aspects of Romanticism particularly around the concept of youth. Within Romanticism is the belief “that humans are essentially good, namely that people are good by nature” and “that civilization corrupts this essential goodness” therefore creating “the romantic esteem, even reverence, for childhood and the **primitive**, the natural states unspoiled by society’s influence” (Murfin and Ray 417). Wheatley draws heavily on this concept in her introduction of her hero, David, who “in youthful bloom appears” and is referred to in terms conveying his youthfulness ten times in the poem (Wheatley 43). David, who is the only youth described in the poem possesses “warlike courage far beyond his years” (Wheatley 44) born from his true faith in God’s protection which had protected him from “the lion and the bear” (Wheatley 104). In contrast, the other Israelites lack this faith only seeing the “tremendous foe” against their own strength (Wheatley 60). Additionally, Goliath, the “monster” (Wheatley 18) antagonist, is described as having “all his days … been inur’d to fight, / And made its deeds his study and delight” (Wheatley 94-95) meaning that it is his upbringing in the midst of civilization, as opposed to David’s nature-filled shepherd upbringing in “flow’ry meads, / And soft recesses of the sylvan shades” (Wheatley 45-46), that has formed the “monster” (Wheatley 18), Goliath. Moreover, the Romantic ideas of the corruption powers of civilization and the inherent goodness of humanity opens the doors for Wheatley to begin to dismantle the ideas of a righteous, civilized Britain and an opposingly corrupt, uncivilized Africa. After all, if civilization is the corrupting power, then would the ‘uncivilized’ Africa not be more virtuous than the civilized Britain? By utilizing concepts familiar to her audience, Wheatley can discreetly critique the arguments upholding the practice of slavery and use her participation in the larger cultural ideology as a shield to protect herself. 
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In addition to aspects of Romanticism, Wheatley draws on neoclassical traditions such as the epic form and allusions. The epic form is “a narrative form that exalts the struggles associated with a heroic era of Tribal warfare” (Murfin and Ray 414) and is also usually quite lengthy, so a more appropriate term for “Goliath of Gath” may be “_epyllion_ or short epic” (Hairston 46). Exact terms aside, in epic tradition, Wheatley begins her poem with an invocation of “the muses to aid her in telling a tale of war” (Byerman 4). However, she also calls upon the aid of the “martial pow’rs” (Wheatley 1) which “suggests not only Mars but also the host of Olympians who participated in wars of both _The Iliad_ and _The Aeneid_” (Hairston 46). Aside from the invocations at the beginning, the only other allusion is the mention of “_Phoebus_” who “blaz’d refulgent on his [Goliath’s] shield” (Wheatley 28). Phoebus, Phoebus Apollo, or simply Apollo, is one of the Greco-Roman gods who participated in _The Iliad_’s Trojan War on the side of Troy and the god responsible for orchestrating the Greek hero, Achilles’ death. By placing Phoebus on Goliath’s side, Wheatley figures David as a hero of the same magnitude as Achilles. However, David, like Paris’ arrow guided by Apollo, is the one who fells the “mighty warrior” (Wheatley 16) with a single projectile guided by God against all odds giving David both the hero and victor status unlike Achilles who falls. Further, Wheatley places Phoebus on Goliath’s shield as though he and the other neoclassical gods are the protecting forces of the Philistines as opposed to the protection of God which accompanies David. In addition to allusions, “ “Goliath of Gath” recalls the epic and violent accounts of battles in the works of Homer and Virgil” (Hairston 45). First, “Wheatley arrays the forces of Israel and Philistia, following Virgil’s and Homer’s pattern of metaphorically describing soldiers’ ranks as natural forces” (Hairston 46) which are “[t]hick as the foliage of the waving wood” (Wheatley 12). Further, she gives “detailed descriptions of the combatants’ deportment and armor, again matching Homer and Virgil” (Hairston 46). However, in this case, the detail of Goliath’s armour in particular is, though neoclassically embellished, directly from the Biblical narrative. Lastly, “Wheatley also matches the regular gore of classical battle scenes” (Hairston 47) with her description of how the stone “pierc’d the skull, and shatter’d all the brain” (Wheatley 178) and how when David cut off Goliath’s head “[t]he blood in gushing torrents drench’d the plains, / The soul found passage through the spouting veins” (Wheatley 186-187). Similarly, to Wheatley’s use of Romantic ideals, her neoclassical engagement helped her “undermin[e] Enlightenment notions of black inferiority in the colonial and European intellectual establishment” and push back against arguments in favour of the continuation of slavery (Hairston 32-33). Wheatley achieves this not only by showcasing her own intelligence to grasp and manipulate these ideological concepts, but by speaking in the language of the educated British citizen in a way that showcases the flaws in their argument for the continuation of slavery. Moreover, she connects her neoclassical technique to the Romantic concept of the corruptive power of civilization in tying the neoclassical gods to the Philistine forces and God to the Israelites, thereby subtly attacking “the strong neoclassical stream that more generally saturated the intellectual environment of early America” as having replaced religion or God in their hearts (Hairston 25-26). In separating God from the educated elite, Wheatley opens up the opportunity to begin to dismantle the arguments in favour of slavery on religiously moral ground. 
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Both Wheatley’s use of Romantic and Neoclassic ideas culminates in effectiveness due to the backing Biblical narrative she chose to re-portray. The story of David and Goliath is fundamentally one of a weaker oppressed force overthrowing their oppressors through the power of faith in God. Thus, it is a particularly good match to use in a discussion over the enslavement of African peoples. Wheatley makes this connection even more clear in her modification of the Israelites' consequences should they lose the fight against Goliath as “[i]n the original, Goliath proposes that the defeated army will become the servants of the victors” (Byerman 5). However, Wheatley “turns the conflict into a struggle about slavery” (Byerman 5) by asserting that the winners “may demand / Perpetual service from the vanquish’d land” (Wheatley 35-36). The change, though not an outright rewrite, enhances the stakes of the conflict and evokes the concept of slavery just as readily as servitude. From this angle, the Israelites stand in for the enslaved African population and the Philistines, and particularly Goliath, as the British power oppressing the enslaved, and thus Wheatley’s use of this particular Biblical narrative “focuse[s] on the ways the young, weak, and small could triumph over their more powerful foes” (Byerman 5). This substitution of people groups is strengthened in light of Wheatley’s largest addition to the Biblical text. Wheatley calls down a “radiant cherub” to warn Goliath of the consequences of his actions (Wheatley 117). The cherub calls Goliath “[r]ebelious” (Wheatley 120) and “[p]roud”, and whose “glory great” shall be “short liv’d” (Wheatley 124) on account of his “guilty land” (Wheatley 141). In this light, the British who are “arrogantly and unrepentantly engaged in evil [ie. slavery] is, like Goliath, unmoved by conscience, God’s word, or recollection” which at the very least will cost them their glory in the afterlife (Hairston 52). Additionally, God chooses the side of freedom in this story as he protects the Israelites through David’s unwavering faith in Him from falling into “[p]erpetual service” which positions the pro-slavery position in opposition to God’s position (Wheatley 36). Thus, the choice of Biblical narrative provides a shared religious ground in addition to the shared neoclassical and Romantic understandings from which to attack the institution of slavery and sing of hope for a freer future. 
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To conclude, Wheatley employs her shared understanding of British ideologies in a way in which the ideologies themselves rebuke arguments in favour of the continuation of slavery. In this way, not only does Wheatley prove her intellectual capacity as a fellow human being, but places herself at the same level as other highly educated individuals. In her use of the Romantic idea that civilization is a corruptive force, she calls the pro-slavery belief of the white saviour into question, and she doubles down with her neoclassical allusions and form which positions the civilized education as an idol in the hearts of her oppressors. Additionally, in choosing the Biblical story of David and Goliath as her backdrop, Wheatley sets up the conversation to be about freedom from oppression, establishes the religiously moral understanding to be the side of freedom since God wins the war to ensure His people remain free, and sets a hopeful tone that the same outcome may be the future for Wheatley and those who share her slave status. By using the same ideologies and traditions as the educated elites, Wheatley is able to use their own words against them, so to speak, which, aside from clearly showcasing the absurdity of pro-slavery arguments, provides Wheatley with a shield against potential retaliatory aggression. 
 
-## GOLIATH of GATH.
-
+## GOLIATH of GATH
 <pre>
-1 SAMUEL, Chap. xvii.{% include essay/feature/aside.html text="This is the start of the Biblical story of David and Goliath, however Wheatley uses other verses from the stories of David’s youth to inform her poem." %}
+_1 SAMUEL, Chap. xvii._{% include essay/feature/aside.html text="This is the start of the Biblical story of David and Goliath, however Wheatley uses other verses from the stories of David’s youth to inform her poem." %}
 </pre>
 
 <pre>
@@ -41,20 +44,20 @@ YE martial pow’rs, and all ye tuneful nine,{% include essay/feature/aside.html
 <br>A spear he proudly wav’d, whose iron head,
 <br>Strange to relate, six hundred shekels weigh’d;
 <br>He strode along, and shook the ample field,
-<br>While _Phoebus_ {% include essay/feature/aside.html text="This is the greco-roman deity of the sun." %} blaz’d refulgent on his shield:
+<br>While _Phœbus_ {% include essay/feature/aside.html text="This is the Greco-Roman deity of the sun." %} blaz’d refulgent on his shield:
 <br>Through _Jacob’s_ race {% include essay/feature/aside.html text="The phrase “Jacob’s race” is in reference to the Israelites. Lineage was of great importance to the Israelites, and every Israelite could trace their lineage to Jacob the grandson of Abraham who was considered the father of all the Israelites." %} a chilling horror ran,
 <br>When thus the huge, enormous chief began:
 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Say, what the cause that in this proud array
-<br>“You set your battle in the face of day?
-<br>“One hero find in all your vaunting train,
-<br>“Then see who loses, and who wins the plain;
-<br>“For he who wins, in triumph may demand
-<br>“Perpetual service from the vanquish’d land:
-<br>“Your armies I defy, your force despise,
-<br>“By far inferior in _Philistia’s_ {% include essay/feature/aside.html text="The origin term for Palestine, but it refers to a smaller amount of land. While irrelevant to the original use case of Philistia the region, Philistia is reminiscent of the use of Britannia for Britain." %} eyes:
-<br>“Produce a man, and let us try the fight,
-<br>“Decide the contest, and the victor’s right.”
+<br>You set your battle in the face of day?
+<br>One hero find in all your vaunting train,
+<br>Then see who loses, and who wins the plain;
+<br>For he who wins, in triumph may demand
+<br>Perpetual service from the vanquish’d land:
+<br>Your armies I defy, your force despise,
+<br>By far inferior in _Philistia’s_ {% include essay/feature/aside.html text="The origin term for Palestine, but it refers to a smaller amount of land. While irrelevant to the original use case of Philistia the region, Philistia is reminiscent of the use of Britannia for Britain." %} eyes:
+<br>Produce a man, and let us try the fight,
+<br>Decide the contest, and the victor’s right.”
 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thus challeng’d he: all _Israel_ stood amaz’d,
 <br>And ev’ry chief in consternation gaz’d;
@@ -77,61 +80,61 @@ YE martial pow’rs, and all ye tuneful nine,{% include essay/feature/aside.html
 <br>Struck with the sound, and trembling at the view,
 <br>Affrighted _Israel_ from its post withdrew.
 <br>“Observe ye this tremendous foe, they cry’d,
-<br>“Who in proud vaunts our armies hath defy’d:
-<br>“Whoever lays him prostrate on the plain,
-<br>“Freedom in _Israel_ for his house shall gain;
-<br>“And on him wealth unknown the king will pour,
-<br>“And give his royal daughter for his dow’r.”
+<br>Who in proud vaunts our armies hath defy’d:
+<br>Whoever lays him prostrate on the plain,
+<br>Freedom in _Israel_ for his house shall gain;
+<br>And on him wealth unknown the king will pour,
+<br>And give his royal daughter for his dow’r.”
 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Then _Jesse’s_ youngest hope: {% include essay/feature/aside.html text="Again in reference to David." %} “My brethren say,
-<br>“What shall be done for him who takes away
-<br>“Reproach from _Jacob_, {% include essay/feature/aside.html text="Again in reference to the Israelites as a whole." %} who destroys the chief.
-<br>“And puts a period to his country’s grief.
-<br>“He vaunts the honours of his arms abroad,
-<br>“And scorns the armies of the living God.”
+<br>What shall be done for him who takes away
+<br>Reproach from _Jacob_, {% include essay/feature/aside.html text="Again in reference to the Israelites as a whole." %} who destroys the chief,
+<br>And puts a period to his country’s grief.
+<br>He vaunts the honours of his arms abroad,
+<br>And scorns the armies of the living God.”
 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thus spoke the youth, th’ attentive people ey’d
 <br>The wond’rous hero, and again reply’d:
 <br>“Such the rewards our monarch will bestow,
-<br>“On him who conquers, and destroys his foe.”
+<br>On him who conquers, and destroys his foe.”
 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Eliab_ {% include essay/feature/aside.html text="Eliab is the eldest of David's three older brothers who were sent to fight in this war. The others are Abinadab and Shammah. David was the youngest son and had seven older brothers." %} heard, and kindled into ire
-<br>To hear his shepherd brother thus inquire,
-<br>And thus begun: “What errand brought thee? say
-<br>“Who keeps thy flock? or does it go astray?
-<br>“I know the base ambition of thine heart,
-<br>“But back in safety from the field depart.”
+<br>To hear his shepherd-brother thus inquire,
+<br>And thus begun? “What errand brought thee? say
+<br>Who keeps thy flock? or does it go astray?
+<br>I know the base ambition of thine heart,
+<br>But back in safety from the field depart.”
 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Eliab_ thus to _Jesse’s_ youngest heir,
 <br>Express’d his wrath in accents most severe.
-<br>When to his brother mildly he reply’d.
-<br>“What have I done? or what the cause to chide?
+<br>When to his brother mildly he reply’d,
+<br>“What have I done? or what the cause to chide?”
 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The words were told before the king, who sent
 <br>For the young hero to his royal tent:
 <br>Before the monarch dauntless he began,
 <br>“For this _Philistine_ fail no heart of man:
-<br>“I’ll take the vale, and with the giant fight:
-<br>“I dread not all his boasts, nor all his might.”
+<br>I’ll take the vale, and with the giant fight:
+<br>I dread not all his boasts, nor all his might.”
 <br>When thus the king: “Dar’st thou a stripling go,
-<br>“And venture combat with so great a foe?
-<br>“Who all his days has been inur’d to fight,
-<br>“And made its deeds his study and delight:
-<br>“Battles and bloodshed brought the monster forth,
-<br>“And clouds and whirlwinds usher’d in his birth.”
+<br>And venture combat with so great a foe?
+<br>Who all his days has been inur’d to fight,
+<br>And made its deeds his study and delight:
+<br>Battles and bloodshed brought the monster forth,
+<br>And clouds and whirlwinds usher’d in his birth.”
 <br>When _David_ thus: “I kept the fleecy care,
-<br>“And out there rush’d a lion and a bear;
-<br>“A tender lamb the hungry lion took,
-<br>“And with no other weapon than my crook
-<br>“Bold I pursu’d, and chas d him o’er the field,
-<br>“The prey deliver’d, and the felon kill’d:
-<br>“As thus the lion and the bear I slew,
-<br>“So shall _Goliath_ fall, and all his crew:
-<br>“The God, who sav’d me from these beasts of prey,
-<br>“By me this monster in the dust shall lay.”
-<br>So _David_ spoke.  The wond’ring king reply’d;
+<br>And out there rush’d a lion and a bear;
+<br>A tender lamb the hungry lion took,
+<br>And with no other weapon than my crook
+<br>Bold I pursu’d, and chas’d him o’er the field,
+<br>The prey deliver’d, and the felon kill’d:
+<br>As thus the lion and the bear I slew,
+<br>So shall _Goliath_ fall, and all his crew:
+<br>The God, who sav’d me from these beasts of prey,
+<br>By me this monster in the dust shall lay.”
+<br>So _David_ spoke. The wond’ring king reply’d;
 <br>“Go thou with heav’n and victory on thy side:
-<br>“This coat of mail, this sword gird on,” he said,
+<br>This coat of mail, this sword gird on,” he said,
 <br>And plac’d a mighty helmet on his head:
 <br>The coat, the sword, the helm he laid aside,
 <br>Nor chose to venture with those arms untry’d,
@@ -140,32 +143,32 @@ YE martial pow’rs, and all ye tuneful nine,{% include essay/feature/aside.html
 <br>Mean time descended to _Philistia’s_ son
 <br>A radiant cherub, and he thus begun: {% include essay/feature/aside.html text="This divine messenger sent to warn Goliath of his downfall is not included in the Bible story from which the poem is re-representing. This is embellishment by Wheatley." %}
 <br>“Goliath, well thou know’st thou hast defy’d
-<br>“Yon Hebrew armies, and their God deny’d:
-<br>“Rebellious wretch! audacious worm! forbear,
-<br>“Nor tempt the vengeance of their God too far:
-<br>“Them, who with his Omnipotence contend,
-<br>“No eye shall pity, and no arm defend:
-<br>“Proud as thou art, in short liv’d glory great,
-<br>“I come to tell thee thine approaching fate.
-<br>“Regard my words.  The Judge of all the gods,
-<br>“Beneath whose steps the tow’ring mountain nods,
-<br>“Will give thine armies to the savage brood,
-<br>“That cut the liquid air, or range the wood.
-<br>“Thee too a well-aim’d pebble shall destroy,
-<br>“And thou shalt perish by a beardless boy:
-<br>“Such is the mandate from the realms above,
-<br>“And should I try the vengeance to remove,
-<br>“Myself a rebel to my king would prove.
-<br>“_Goliath_ say, shall grace to him be shown,
-<br>“Who dares heav’ns Monarch, and insults his throne?”
+<br>Yon Hebrew armies, and their God deny’d:
+<br>Rebellious wretch! audacious worm! forbear,
+<br>Nor tempt the vengeance of their God too far:
+<br>Them, who with his omnipotence contend,
+<br>No eye shall pity, and no arm defend:
+<br>Proud as thou art, in short liv’d glory great,
+<br>I come to tell thee thine approaching fate.
+<br>Regard my words. The judge of all the gods,
+<br>Beneath whose steps the tow’ring mountain nods,
+<br>Will give thine armies to the savage brood,
+<br>That cut the liquid air, or range the wood.
+<br>Thee too a well-aim’d pebble shall destroy,
+<br>And thou shalt perish by a beardless boy:
+<br>Such is the mandate from the realms above,
+<br>And should I try the vengeance to remove,
+<br>Myself a rebel to my king would prove.
+<br>_Goliath_ say, shall grace to him be shown,
+<br>Who dares heav’ns monarch, and insults his throne?”
 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Your words are lost on me,” the giant cries,
 <br>While fear and wrath contended in his eyes,
 <br>When thus the messenger from heav’n replies:
 <br>“Provoke no more _Jehovah’s_ {% include essay/feature/aside.html text="Another name for God." %} awful hand
-<br>“To hurl its vengeance on thy guilty land:
-<br>“He grasps the thunder, and, he wings the storm,
-<br>“Servants their sov’reign’s orders to perform.”
+<br>To hurl its vengeance on thy guilty land:
+<br>He grasps the thunder, and, he wings the storm,
+<br>Servants their sov’reign’s orders to perform.”
 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The angel spoke, and turn’d his eyes away,
 <br>Adding new radiance to the rising day.
@@ -175,24 +178,24 @@ YE martial pow’rs, and all ye tuneful nine,{% include essay/feature/aside.html
 <br>The giant mov’d, and from his tow’ring height
 <br>Survey’d the stripling, and disdain’d the fight,
 <br>And thus began: “Am I a dog with thee?
-<br>“Bring’st thou no armour, but a staff to me?
-<br>“The gods on thee their vollied curses pour,
-<br>“And beasts and birds of prey thy flesh devour.”
+<br>Bring’st thou no armour, but a staff to me?
+<br>The gods on thee their vollied curses pour,
+<br>And beasts and birds of prey thy flesh devour.”
 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_David_ undaunted thus, “Thy spear and shield
-<br>“Shall no protection to thy body yield:
-<br>“_Jehovah’s_ name———no other arms I bear,
-<br>“I ask no other in this glorious war.
-<br>“To-day the Lord of Hosts to me will give
-<br>“Vict’ry, to-day thy doom thou shalt receive;
-<br>“The fate you threaten shall your own become,
-<br>“And beasts shall be your animated tomb,
-<br>“That all the earth’s inhabitants may know
-<br>“That there’s a God, who governs all below:
-<br>“This great assembly too shall witness stand,
-<br>“That needs nor sword, nor spear, th’ Almighty’s hand:
-<br>“The battle his, the conquest he bestows,
-<br>“And to our pow’r consigns our hated foes.”
+<br>Shall no protection to thy body yield:
+<br>_Jehovah’s_ name——no other arms I bear,
+<br>I ask no other in this glorious war.
+<br>To-day the Lord of Hosts to me will give
+<br>Vict’ry, to-day thy doom thou shalt receive;
+<br>The fate you threaten shall your own become,
+<br>And beasts shall be your animated tomb,
+<br>That all the earth’s inhabitants may know
+<br>That there’s a God, who governs all below:
+<br>This great assembly too shall witness stand,
+<br>That needs nor sword, nor spear, th’ Almighty’s hand:
+<br>The battle his, the conquest he bestows,
+<br>And to our pow’r consigns our hated foes.”
 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thus _David_ spoke; _Goliath_ heard and came
 <br>To meet the hero in the field of fame.
@@ -201,7 +204,7 @@ YE martial pow’rs, and all ye tuneful nine,{% include essay/feature/aside.html
 <br>Young _David_ meets thee, meets thee not in vain;
 <br>’Tis thine to perish on th’ ensanguin’d plain.
 
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And now the youth the forceful pebble slung
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;And now the youth the forceful pebble flung,
 <br>_Philistia_ trembled as it whizz’d along:
 <br>In his dread forehead, where the helmet ends,
 <br>Just o’er the brows the well-aim’d stone descends,
@@ -226,7 +229,7 @@ YE martial pow’rs, and all ye tuneful nine,{% include essay/feature/aside.html
 <br>And _David_ there were thy ten thousands laid:
 <br>Thus _Israel’s_ damsels musically play’d.
 
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Near _Gath_ and _Edron_ {% include essay/feature/aside.html text="Like Gath, Ekron is another of the five major cities of Philistia." %} many an hero lay,
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Near _Gath_ and _Ekron_ {% include essay/feature/aside.html text="Like Gath, Ekron is another of the five major cities of Philistia." %} many an hero lay,
 <br>Breath’d out their souls, and curs’d the light of day:
 <br>Their fury, quench’d by death, no longer burns,
 <br>And _David_ with _Goliath’s_ head returns,
@@ -237,22 +240,21 @@ YE martial pow’rs, and all ye tuneful nine,{% include essay/feature/aside.html
 <br>“Say, who is this amazing youth?” he cry’d,
 <br>When thus the leader of the host reply’d;
 <br>“As lives thy soul I know not whence he sprung,
-<br>“So great in prowess though in years so young:”
+<br>So great in prowess though in years so young”:
 <br>“Inquire whose son is he,” the sov’reign said,
 <br>“Before whose conq’ring arm _Philistia_ fled.”
 <br>Before the king behold the stripling stand,
-<br>_Goliath’s_ head depending from his hand:
+<br>_Goliath's_ head depending from his hand:
 <br>To him the king: “Say of what martial line
 <br>“Art thou, young hero, and what sire was thine?”
 <br>He humbly thus; “The son of _Jesse_ I:
 <br>“I came the glories of the field to try.
-<br>“Small is my tribe, but valiant in the fight;
-<br>“Small is my city, but thy royal right.”
+<br>Small is my tribe, but valiant in the fight;
+<br>Small is my city, but thy royal right.”
 <br>“Then take the promis’d gifts,” the monarch cry’d,
 <br>Conferring riches and the royal bride:
 <br>“Knit to my soul for ever thou remain
-<br>“With me, nor quit my regal roof again.”
-</pre>
+<br>With me, nor quit my regal roof again.”
 
 {% include essay/feature/image-gallery.html
    objectid="pwp_30;pwp_31;pwp_32;pwp_33;pwp_34;pwp_35;pwp_36;pwp_37;pwp_38;pwp_39;pwp_40;pwp_41" %}
@@ -354,80 +356,16 @@ YE martial pow’rs, and all ye tuneful nine,{% include essay/feature/aside.html
 <br><sup>30</sup> Then the princes of the Philistines went forth: and it came to pass, after they went forth, that David behaved himself more wisely than all the servants of Saul; so that his name was much set by.
 
 ## Works Cited
-This is the contextual appendix. Your contextual appendix should provide additional information to help the reader understand your selected poem. The contextual appendix is designed to be ~500 words. Remember to write in markdown!
+Byerman, Keith. "Talking Back: Phillis Wheatley, Race, and Religion." _Religions_, vol. 10, no. 6, 2019. _ProQuest_, doi:[https://doi.org/10.3390/rel10060401] (https://doi.org/10.3390/rel10060401). 
 
----
-## Critical Introduction to "To Maecenas"
-This is the critical introduction. Your critical introduction should be constructed like a close reading or scholarly analysis of your selected poem. The critical introduction is designed to be ~500 words. Remember to write in markdown!
+<br>Hairston, Eric Ashley. "The Trojan Horse: Phillis Wheatley." _Literature Criticism from 1400 to 1800_, edited by Jennifer Stock, vol. 315, Gale, 2023. _Gale Literature Resource Center_,[link.gale.com/apps/doc/DEHIAG197391005/LitRCu=kwantlenuc_lib&sid=summon&xid=2b20c77e] (link.gale.com/apps/doc/DEHIAG197391005/LitRCu=kwantlenuc_lib&sid=summon&xid=2b20c77e). Accessed 27 Nov. 2026. Originally published in _The Ebony Column_, U of Tennessee P, 2013, pp. 25-63.
 
-## To MAECENAS.
-MAECENAS, you, beneath the myrtle shade, {% include essay/feature/aside.html text="Here is a demo note." %}
-<br>Read o’er what poets sung, and shepherds play’d.
-<br>What felt those poets but you feel the same?
-<br>Does not your soul possess the sacred flame?
-<br>Their noble strains your equal genius shares
-<br>In softer language, and diviner airs.
+<br>Murfin, Ross and Supriya M. Ray. "Romance." _The Bedford Glossary of Critical and Literary Terms_, edited by Ross Murfin and Supriya M. Ray, Bedford/St. Martin's, 2003, pp. 414-415.
 
-<br>While Homer paints, lo! circumfus’d in air,
-<br>Celestial Gods in mortal forms appear;
-<br>Swift as they move hear each recess rebound,
-<br>Heav’n quakes, earth trembles, and the shores resound.
-<br>Great Sire of verse, before my mortal eyes,
-<br>The lightnings blaze across the vaulted skies,
-<br>And, as the thunder shakes the heav’nly plains,
-<br>A deep felt horror thrills through all my veins.
-<br>When gentler strains demand thy graceful song,
-<br>The length’ning line moves languishing along.
-<br>When great Patroclus courts Achilles’ aid,
-<br>The grateful tribute of my tears is paid;
-<br>Prone on the shore he feels the pangs of love,
-<br>And stern Pelides tend’rest passions move.
+<br>Murfin, Ross and Supriya M. Ray. "Romanticism." _The Bedford Glossary of Critical and Literary Terms_, edited by Ross Murfin and Supriya M. Ray, Bedford/St. Martin's, 2003, pp. 415-419.
 
-<br>Great Maro’s strain in heav’nly numbers flows,
-<br>The Nine inspire, and all the bosom glows.
-<br>O could I rival thine and Virgil’s page,
-<br>Or claim the Muses with the Mantuan Sage;
-<br>Soon the same beauties should my mind adorn,
-<br>And the same ardors in my soul should burn:
-<br>Then should my song in bolder notes arise,
-<br>And all my numbers pleasingly surprise;
-<br>But here I sit, and mourn a grov’ling mind,
-<br>That fain would mount, and ride upon the wind.
+<br>_The Bible_. King James Version, Bible Gateway, 1769. [https://www.biblegateway.com] (https://www.biblegateway.com). 
 
-<br>Not you, my friend, these plaintive strains become,
-<br>Not you, whose bosom is the Muses home;
-<br>When they from tow’ring Helicon retire,
-<br>They fan in you the bright immortal fire,
-<br>But I less happy, cannot raise the song,
-<br>The fault’ring music dies upon my tongue.
-
-<br>The happier Terence {% include essay/feature/aside.html
-   text="Note from original printing: He was an African by birth." %} all the choir inspir’d,
-<br>His soul replenish’d, and his bosom fir’d;
-<br>But say, ye Muses, why this partial grace,
-<br>To one alone of Afric’s sable race;
-<br>From age to age transmitting thus his name
-<br>With the finest glory in the rolls of fame?
-
-<br>Thy virtues, great Maecenas! shall be sung
-<br>In praise of him, from whom those virtues sprung:
-<br>While blooming wreaths around thy temples spread,
-<br>I’ll snatch a laurel from thine honour’d head,
-<br>While you indulgent smile upon the deed.
-
-<br>As long as Thames in streams majestic flows,
-<br>Or Naiads in their oozy beds repose
-<br>While Phoebus reigns above the starry train
-<br>While bright Aurora purples o’er the main,
-<br>So long, great Sir, the muse thy praise shall sing,
-<br>So long thy praise shal’ make Parnassus ring:
-<br>Then grant, Maecenas, thy paternal rays,
-<br>Hear me propitious, and defend my lays.
-
-{% include essay/feature/image-gallery.html
-   objectid="pwp_08;pwp_09;pwp_10;pwp_11" %}
-
-## Contextual Accompaniment to "To Maecenas"
-This is the contextual appendix. Your contextual appendix should provide additional information to help the reader understand your selected poem. The contextual appendix is designed to be ~500 words. Remember to write in markdown!
+<br>Wheatley, Phillis. “Goliath of Gath.” _Phillis Wheatley Complete Writings_, edited by Vincent Carretta, Penguin Books, 2001, pp. 19-25.
 
 ---
