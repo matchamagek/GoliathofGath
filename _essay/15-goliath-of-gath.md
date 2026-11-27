@@ -357,15 +357,15 @@ Chapter 18
 <br><sup>30</sup> Then the princes of the Philistines went forth: and it came to pass, after they went forth, that David behaved himself more wisely than all the servants of Saul; so that his name was much set by.
 
 ## Works Cited
-Byerman, Keith. "Talking Back: Phillis Wheatley, Race, and Religion." _Religions_, vol. 10, no. 6, 2019. _ProQuest_, doi:[https://doi.org/10.3390/rel10060401] (https://doi.org/10.3390/rel10060401). 
+Byerman, Keith. "Talking Back: Phillis Wheatley, Race, and Religion." _Religions_, vol. 10, no. 6, 2019. _ProQuest_, doi:[https://doi.org/10.3390/rel10060401](https://doi.org/10.3390/rel10060401). 
 
-<br>Hairston, Eric Ashley. "The Trojan Horse: Phillis Wheatley." _Literature Criticism from 1400 to 1800_, edited by Jennifer Stock, vol. 315, Gale, 2023. _Gale Literature Resource Center_,[link.gale.com/apps/doc/DEHIAG197391005/LitRCu=kwantlenuc_lib&sid=summon&xid=2b20c77e] (link.gale.com/apps/doc/DEHIAG197391005/LitRCu=kwantlenuc_lib&sid=summon&xid=2b20c77e). Accessed 27 Nov. 2026. Originally published in _The Ebony Column_, U of Tennessee P, 2013, pp. 25-63.
+<br>Hairston, Eric Ashley. "The Trojan Horse: Phillis Wheatley." _Literature Criticism from 1400 to 1800_, edited by Jennifer Stock, vol. 315, Gale, 2023. _Gale Literature Resource Center_,[link.gale.com/apps/doc/DEHIAG197391005/LitRCu=kwantlenuc_lib&sid=summon&xid=2b20c77e](link.gale.com/apps/doc/DEHIAG197391005/LitRCu=kwantlenuc_lib&sid=summon&xid=2b20c77e). Accessed 27 Nov. 2026. Originally published in _The Ebony Column_, U of Tennessee P, 2013, pp. 25-63.
 
 <br>Murfin, Ross and Supriya M. Ray. "Romance." _The Bedford Glossary of Critical and Literary Terms_, edited by Ross Murfin and Supriya M. Ray, Bedford/St. Martin's, 2003, pp. 414-415.
 
 <br>Murfin, Ross and Supriya M. Ray. "Romanticism." _The Bedford Glossary of Critical and Literary Terms_, edited by Ross Murfin and Supriya M. Ray, Bedford/St. Martin's, 2003, pp. 415-419.
 
-<br>_The Bible_. King James Version, Bible Gateway, 1769. [https://www.biblegateway.com] (https://www.biblegateway.com). 
+<br>_The Bible_. King James Version, Bible Gateway, 1769. [https://www.biblegateway.com](https://www.biblegateway.com). 
 
 <br>Wheatley, Phillis. “Goliath of Gath.” _Phillis Wheatley Complete Writings_, edited by Vincent Carretta, Penguin Books, 2001, pp. 19-25.
 
