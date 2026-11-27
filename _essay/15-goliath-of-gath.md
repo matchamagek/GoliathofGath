@@ -11,12 +11,9 @@ byline: Kathryn Davidson
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To conclude, Wheatley employs her shared understanding of British ideologies in a way in which the ideologies themselves rebuke arguments in favour of the continuation of slavery. In this way, not only does Wheatley prove her intellectual capacity as a fellow human being, but places herself at the same level as other highly educated individuals. In her use of the Romantic idea that civilization is a corruptive force, she calls the pro-slavery belief of the white saviour into question, and she doubles down with her neoclassical allusions and form which positions the civilized education as an idol in the hearts of her oppressors. Additionally, in choosing the Biblical story of David and Goliath as her backdrop, Wheatley sets up the conversation to be about freedom from oppression, establishes the religiously moral understanding to be the side of freedom since God wins the war to ensure His people remain free, and sets a hopeful tone that the same outcome may be the future for Wheatley and those who share her slave status. By using the same ideologies and traditions as the educated elites, Wheatley is able to use their own words against them, so to speak, which, aside from clearly showcasing the absurdity of pro-slavery arguments, provides Wheatley with a shield against potential retaliatory aggression. 
 
 ## GOLIATH of GATH
-<pre>
 _1 SAMUEL, Chap. xvii._{% include essay/feature/aside.html text="This is the start of the Biblical story of David and Goliath, however Wheatley uses other verses from the stories of David’s youth to inform her poem." %}
-</pre>
 
-<pre>
-YE martial pow’rs, and all ye tuneful nine,{% include essay/feature/aside.html text="This is a reference to the nine muses. It is a common practice to invoke the aid of the muses in poetry to signal that the following lines are important. Therefore it is commonly seen in epic poetry of which this poem is emulating on a smaller scale." %}
+<br>YE martial pow’rs, and all ye tuneful nine,{% include essay/feature/aside.html text="This is a reference to the nine muses. It is a common practice to invoke the aid of the muses in poetry to signal that the following lines are important. Therefore it is commonly seen in epic poetry of which this poem is emulating on a smaller scale." %}
 <br>Inspire my song, and aid my high design.
 <br>The dreadful scenes and toils of war I write,
 <br>The ardent warriors, and the fields of fight:
