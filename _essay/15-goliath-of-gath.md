@@ -260,8 +260,9 @@ YE martial pow’rs, and all ye tuneful nine,{% include essay/feature/aside.html
    objectid="pwp_30;pwp_31;pwp_32;pwp_33;pwp_34;pwp_35;pwp_36;pwp_37;pwp_38;pwp_39;pwp_40;pwp_41" %}
 
 ## Contextual Accompaniment to "Goliath of Gath"
-
+<pre>
 # 1 Samuel Chapters 17-18 (King James Version)
+</pre>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Given the time and place where Philis Wheatley studied and lived most of her life, the version of the Bible she would have had access to would be the King James Version (KJV), and there are frequent parallels in diction choice between Wheatley’s poem “Goliath of Gath” and the corresponding chapters seventeen and eighteen of 1 Samuel to further support this. However, Wheatley’s poem heavily romanticizes and neoclassically embellishes the story of David and Goliath with added description and scenes not found in the verses provided below. Additionally, the later animosities between David and Saul are not explored in Wheatley’s poem at all despite pulling upon a few verses within that period of the narrative to give the David in her poem a proper hero’s welcome and reward in the neoclassical tradition. For ease of comparison of diction and tone, I have marked which verses directly inform which of Wheatley’s lines._
 <pre> 
 Chapter 17
