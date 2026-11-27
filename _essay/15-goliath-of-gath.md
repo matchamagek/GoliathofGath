@@ -260,9 +260,11 @@ YE martial pow’rs, and all ye tuneful nine,{% include essay/feature/aside.html
    objectid="pwp_30;pwp_31;pwp_32;pwp_33;pwp_34;pwp_35;pwp_36;pwp_37;pwp_38;pwp_39;pwp_40;pwp_41" %}
 
 ## Contextual Accompaniment to "Goliath of Gath"
+
 # 1 Samuel Chapters 17-18 (King James Version)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Given the time and place where Philis Wheatley studied and lived most of her life, the version of the Bible she would have had access to would be the King James Version (KJV), and there are frequent parallels in diction choice between Wheatley’s poem “Goliath of Gath” and the corresponding chapters seventeen and eighteen of 1 Samuel to further support this. However, Wheatley’s poem heavily romanticizes and neoclassically embellishes the story of David and Goliath with added description and scenes not found in the verses provided below. Additionally, the later animosities between David and Saul are not explored in Wheatley’s poem at all despite pulling upon a few verses within that period of the narrative to give the David in her poem a proper hero’s welcome and reward in the neoclassical tradition. For ease of comparison of diction and tone, I have marked which verses directly inform which of Wheatley’s lines.]
-<pre> Chapter 17
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Given the time and place where Philis Wheatley studied and lived most of her life, the version of the Bible she would have had access to would be the King James Version (KJV), and there are frequent parallels in diction choice between Wheatley’s poem “Goliath of Gath” and the corresponding chapters seventeen and eighteen of 1 Samuel to further support this. However, Wheatley’s poem heavily romanticizes and neoclassically embellishes the story of David and Goliath with added description and scenes not found in the verses provided below. Additionally, the later animosities between David and Saul are not explored in Wheatley’s poem at all despite pulling upon a few verses within that period of the narrative to give the David in her poem a proper hero’s welcome and reward in the neoclassical tradition. For ease of comparison of diction and tone, I have marked which verses directly inform which of Wheatley’s lines._
+<pre> 
+Chapter 17
 </pre>
 <br><sup>1</sup> Now the Philistines gathered together their armies to battle, and were gathered together at Shochoh, which belongeth to Judah, and pitched between Shochoh and Azekah, in Ephesdammim.
 <br><sup>2</sup> And Saul and the men of Israel were gathered together, and pitched by the valley of Elah, and set the battle in array against the Philistines. {% include essay/feature/aside.html text="This verse informs line 49 of Wheatley’s poem." %}
@@ -322,7 +324,8 @@ YE martial pow’rs, and all ye tuneful nine,{% include essay/feature/aside.html
 <br><sup>56</sup> And the king said, Enquire thou whose son the stripling is.
 <br><sup>57</sup> And as David returned from the slaughter of the Philistine, Abner took him, and brought him before Saul with the head of the Philistine in his hand.
 <br><sup>58</sup> And Saul said to him, Whose son art thou, thou young man? And David answered, I am the son of thy servant Jesse the Bethlehemite. {% include essay/feature/aside.html text="Verses 54-58 inform lines 200-218 of Wheatley’s poem." %}
-<pre> Chapter 18
+<pre> 
+Chapter 18
 </pre>
 <br><sup>1</sup> And it came to pass, when he had made an end of speaking unto Saul, that the soul of Jonathan was knit with the soul of David, and Jonathan loved him as his own soul.
 <br><sup>2</sup> And Saul took him that day, and would let him go no more home to his father's house. {% include essay/feature/aside.html text="This verse informs lines 221-222 of Wheatley’s poem." %}
