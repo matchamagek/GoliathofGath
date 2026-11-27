@@ -23,7 +23,7 @@ YE martial pow’rs, and all ye tuneful nine,{% include essay/feature/aside.html
 <br>Did then the poet and the sage inspire.
 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Now front to front the armies were display’d,
-<br>Here __Israel__ rang’d, and there the foes array’d;
+<br>Here _Israel_ rang’d, and there the foes array’d;
 <br>The hosts on two opposing mountains stood,
 <br>Thick as the foliage of the waving wood;
 <br>Between them an extensive valley lay,
